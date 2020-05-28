@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #566D7E;
+}
+.header{
+    background-color: #2B547E;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    margin: 0px;
+}
+
+.side-bar{
+    float: left;
+    background-color: #566D7E;
+    color: white;
+    width: 20%;
+    text-align: center;
+    height: 100%;
+}
+h3{
+    padding-bottom: 50px;
+    font-size: 30px;
+}
+li{
+    padding-bottom: 30px;
+    list-style: none;
+    font-size: 20px;
+}
+.image{
+    background-color: white;
+    margin-left: 20%;
+    height: 500px;
+    padding-top: 100px;
+    padding-left: 200px;
+}
